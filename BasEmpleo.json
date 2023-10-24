@@ -1,0 +1,102 @@
+{
+   "poblacion":[
+      {
+         "edad":"[15< x <25]",
+         "clase":"1",
+         "desempleo":6.4         
+      },
+      {
+         "edad":"[25< x <35]",
+         "clase":"2",
+         "desempleo":4.9        
+      },
+      {
+         "edad":"[35< x <45]",
+         "clase":"3",
+         "desempleo":3.2
+      },
+      {
+         "edad":"[45< x <55]",
+         "clase":"4",
+         "desempleo":1.5
+      },
+      {
+         "edad":"[x > 55]",
+         "clase":"5",
+         "desempleo":1.4
+      }
+   ],
+   "histogramas":{
+      "[15< x <25]":[
+         {
+            "x":"Nacional",
+            "y":6.4
+         },
+         {
+            "x":"Hombre",
+            "y":5.2
+         },
+         {
+            "x":"Mujer",
+            "y":8.7
+         }
+      ],
+      "[25< x <35]":[
+         {
+            "x":"Nacional",
+            "y":4.9
+         },
+         {
+            "x":"Hombre",
+            "y":4.1
+         },
+         {
+            "x":"Mujer",
+            "y":5.9
+         }
+      ],
+      "[35< x <45]":[
+         {
+            "x":"Nacional",
+            "y":3.2
+         },
+         {
+            "x":"Hombre",
+            "y":2
+         },
+         {
+            "x":"Mujer",
+            "y":4.8
+         }
+      ],
+      "[45< x <55]":[
+         {
+            "x":"Nacional",
+            "y":1.5
+         },
+         {
+            "x":"Hombre",
+            "y":1.5
+         },
+         {
+            "x":"Mujer",
+            "y":1.5
+         }
+      ],
+      "[x > 55]":[
+         {
+            "x":"Nacional",
+            "y":1.4
+         },
+         {
+            "x":"Hombre",
+            "y":2
+         },
+         {
+            "x":"Mujer",
+            "y":0.5
+         }
+      ]
+          
+   }
+}
